@@ -1,7 +1,9 @@
 # Stylish-Portfolio-With-Grain-Texture
 Stylish Portfolio With Grain Texture
 
-- [Version3](#version3)
+READMORE: https://www.youtube.com/watch?v=GKRQC4fLNHs
+
+- [Version4](#version4)
   - [Place Image Into Photoshop](#place-image-into-photoshop)
 
 ##Place Image Into Photoshop
@@ -16,7 +18,7 @@ Stylish Portfolio With Grain Texture
 	+ Create Layer Brighness: -16/-13
 	
 <p align="center">
-  <img src="https://github.com/danisluis1/Stylish-Portfolio-With-Grain-Texture/blob/version3/1.png">
+  <img src="https://github.com/danisluis1/Stylish-Portfolio-With-Grain-Texture/blob/version4/1.png">
 </p>
 
 	
