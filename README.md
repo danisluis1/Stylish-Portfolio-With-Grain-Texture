@@ -21,7 +21,7 @@ Stylish Portfolio With Grain Texture
 	=> Film Grain: 4 4 1
 
 <p align="center">
-  <img src="https://github.com/danisluis6/App-Music/blob/version1/App/4.png">
+  <img src="https://github.com/danisluis1/Stylish-Portfolio-With-Grain-Texture/blob/version1/1.png">
 </p>
 
 	
