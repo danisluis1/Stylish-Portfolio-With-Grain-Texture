@@ -1,27 +1,42 @@
 # Stylish-Portfolio-With-Grain-Texture
 Stylish Portfolio With Grain Texture
 
-- [Version1](#version1)
-  - [Open Grid 12 Column](#open-grid-12-column)
-  - [Set Canvas Size: 1400px - 2500px](#set-canvas-size:-1400px---2500px)
-  - [Use ruler to divide session in layout website](#use-ruler-to-divide-session-in-layout-website)
-  - [Use Layout Gradient](#use-layout-gradient)
-  - [Layout 4](#layout-4)
+- [Version2](#version2)
+  - [Create new rectange tool](#create-new-rectange-tool)
 
-##Use Gradient
+##Create new rectange tool
 
-    - StartColor: #e6dfd9
-	- CenterColor:
-	- EndColor: #837a7b
-	- Gradient:100%(Right)
+    - Solid Color: #c1c1c1
+	- Blend Options
+	+ Color: Black
+	+ Mutiple
+	+ Opacity: 75
+	+ Noise: 0
+	+ Spread: 0
+	+ Size: 32
 	
-##Layout 4
-    - Ctrl+Alt+Shift+E
-	- Select Filter Gallery
-	=> Film Grain: 4 4 1
-
+	- Create Layer and create Circle on Layer. Use Layer Mask
+	- Create Layer Mask for Layer Rectangle.
+	- Ctrl+Click Mouse Left to select vung chon sau do chon layer rectange va chon layermask va bam Ctrl + I (Reverse)
+	- Delete Circle
+	
+	- Dupplicate Layer Rectangle.
+	+ Solid Color: #2b2a30
+	+ Ctrl + T
+	+ Delete Layer Mask
+	+ Clear Layout Style
+	
+	- Gradient Color: Layer 1
+	+ StartColor: #2b2a30 => Location:15 CenterPoint: 27
+	+ EndColor: #e6dfd9
+	=> This is a Layer and multiple with Layer1 => Choose Layer 1.
+	
+	- With LayerGradient: Create A "Vung Chon" and Alt+ Space=> Solid Color Background
+	
+	After finish: Insert Image
+	
 <p align="center">
-  <img src="https://github.com/danisluis1/Stylish-Portfolio-With-Grain-Texture/blob/version1/1.png">
+  <img src="https://github.com/danisluis1/Stylish-Portfolio-With-Grain-Texture/blob/version2/1.png">
 </p>
 
 	
